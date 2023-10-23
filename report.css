@@ -1,0 +1,26 @@
+body {
+  background-color: midnightblue;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  margin: 10px;
+}
+
+table {
+  font-size: 32px;
+  margin: 20px;
+  padding: 20px;
+  color: antiquewhite;
+  border: 5px solid black;
+}
+
+th{
+    border: 3px solid red;
+    border-radius: 10px;
+    padding: 30px;
+}
+
+td{
+    border: 2px solid green;
+    border-radius: 10px;
+    padding: 30px;
+}
+
